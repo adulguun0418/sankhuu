@@ -1,3 +1,0 @@
-# sankhuu
-
-Another JS project
